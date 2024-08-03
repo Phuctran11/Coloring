@@ -14,11 +14,11 @@ File dothitomau.txt với
 - Ở n dòng tiếp theo, dòng thứ i là màu để tô đỉnh i
 Ví dụ
 Dữ liệu vào
-5 5
-1 2
-2 3
-3 4
-4 1
+5 5/
+1 2/
+2 3/
+3 4/
+4 1/
 1 5
 Thì dữ liệu ra (với giải thích sau dấu //) sẽ là:
 2  // Số màu 
